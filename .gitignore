@@ -2,6 +2,10 @@
 *~
 *.sw[p_]
 
+# IntelliJ
+
+.idea/
+
 # Sublime Text
 *.sublime-project
 *.sublime-workspace
