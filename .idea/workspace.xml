@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05edee6b-99b2-4e62-90aa-c98fb45878b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YmNarW3e16CL8aZsEB5dEPUQVT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="/opt/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../hmrc/P11D-mongo-migration-spike" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/agent-access-control" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/agents-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/agents-external-stubs" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/anthony-test-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/auth" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/auth-client" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/auth-login-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/benefits-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/cest-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/cis-filing-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/cis-filing-service-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/datastream" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/domain" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/emcs-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/manage-services-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/notice-viewer-messages" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/parcels-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/paye-employee-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/paye-exb-forms" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/paye-filing-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/portal-audit-filter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/portal-chris-stub" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/trusts-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/user-profile-redirect-frontend" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/vat-core-acceptance-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../hmrc/vat-registration-eligibility-frontend" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05edee6b-99b2-4e62-90aa-c98fb45878b0" name="Default Changelist" comment="" />
+      <created>1583543875550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583543875550</updated>
+      <workItem from="1583543881299" duration="1067000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583543977230">
+      <screen x="64" y="27" width="1536" height="873" />
+    </state>
+    <state x="294" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog/64.27.1536.873@64.27.1536.873" timestamp="1583543977230" />
+    <state width="1490" height="216" key="GridCell.Tab.0.bottom" timestamp="1583543897500">
+      <screen x="64" y="27" width="1536" height="873" />
+    </state>
+    <state width="1490" height="216" key="GridCell.Tab.0.bottom/64.27.1536.873@64.27.1536.873" timestamp="1583543897500" />
+    <state width="1490" height="216" key="GridCell.Tab.0.center" timestamp="1583543897495">
+      <screen x="64" y="27" width="1536" height="873" />
+    </state>
+    <state width="1490" height="216" key="GridCell.Tab.0.center/64.27.1536.873@64.27.1536.873" timestamp="1583543897495" />
+    <state width="1490" height="216" key="GridCell.Tab.0.left" timestamp="1583543897494">
+      <screen x="64" y="27" width="1536" height="873" />
+    </state>
+    <state width="1490" height="216" key="GridCell.Tab.0.left/64.27.1536.873@64.27.1536.873" timestamp="1583543897494" />
+    <state width="1490" height="216" key="GridCell.Tab.0.right" timestamp="1583543897498">
+      <screen x="64" y="27" width="1536" height="873" />
+    </state>
+    <state width="1490" height="216" key="GridCell.Tab.0.right/64.27.1536.873@64.27.1536.873" timestamp="1583543897498" />
+    <state x="492" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1583543880741">
+      <screen x="64" y="27" width="1536" height="873" />
+    </state>
+    <state x="492" y="220" key="com.intellij.ide.util.TipDialog/64.27.1536.873@64.27.1536.873" timestamp="1583543880741" />
+  </component>
+</project>
